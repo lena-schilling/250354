@@ -1,4 +1,4 @@
 # 250354
-information technology 
+computer science
 abcdefgh
 1234567
